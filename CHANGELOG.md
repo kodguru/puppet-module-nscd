@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.16.0](https://github.com/kodguru/puppet-module-nscd/tree/v1.16.0) (2022-10-20)
+
+[Full Changelog](https://github.com/ghoneycutt/puppet-module-nscd/compare/v1.15.0...v1.16.0)
+
+**Merged pull requests:**
+
+- Add older Ubuntu releases and support 22.04 [\#2](https://github.com/kodguru/puppet-module-nscd/pull/2) ([anders-larsson](https://github.com/anders-larsson))
+- Add support for EL9 [\#1](https://github.com/kodguru/puppet-module-nscd/pull/1) ([anders-larsson](https://github.com/anders-larsson))
+
 ## [v1.15.0](https://github.com/ghoneycutt/puppet-module-nscd/tree/v1.15.0) (2020-10-07)
 
 [Full Changelog](https://github.com/ghoneycutt/puppet-module-nscd/compare/v1.14.0...v1.15.0)
